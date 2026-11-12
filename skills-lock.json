@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "skills": {
+    "design-system": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/design-system/SKILL.md",
+      "computedHash": "9efdc106c73d8d298b5a90d55c56995840a37f754fb9d498d14e6562bdaadc23"
+    },
+    "impeccable": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/impeccable/SKILL.md",
+      "computedHash": "86e265bf3df79c65215f7244d71892ca278370d56dec47a8cc15e8373db3f714"
+    },
+    "nextjs-app-router-patterns": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "skillPath": "plugins/frontend-mobile-development/skills/nextjs-app-router-patterns/SKILL.md",
+      "computedHash": "39b84480d3a62355fd1199173dc70b97efe1daf6dbfae560cc7b85e127934a98"
+    },
+    "nextjs-zustand": {
+      "source": "Fusengine/claude-plugins",
+      "sourceType": "github",
+      "skillPath": "plugins/nextjs-expert/skills/nextjs-zustand/SKILL.md",
+      "computedHash": "9e97c2175779d9433693e167293dc400a6a5e4fe341fe6269f8ad53e78f0ca65"
+    },
+    "ponytail": {
+      "source": "DietrichGebert/ponytail",
+      "sourceType": "github",
+      "skillPath": "skills/ponytail/SKILL.md",
+      "computedHash": "56d72677aca02689ac89bd48734e8c19b40ab86716d1257eaf5f1238b43cda6b"
+    },
+    "recharts": {
+      "source": "andy-spike/skills",
+      "sourceType": "github",
+      "skillPath": "skills/recharts/SKILL.md",
+      "computedHash": "a2c9d5fd941c2fb7596dd1b2ad1e9eb000b2a2efdc57539990ad56ba580550a6"
+    },
+    "solar-icons": {
+      "source": "saoudi-h/solar-icons",
+      "sourceType": "github",
+      "skillPath": "skills/solar-icons/SKILL.md",
+      "computedHash": "c3dc6275621ecceb5c1dc2698e301e4bab9b03afddbeec528e0970466a979e9c"
+    }
+  }
+}
